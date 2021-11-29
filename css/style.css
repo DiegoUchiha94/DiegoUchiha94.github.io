@@ -20,8 +20,8 @@ sss * {
 }
 body {
   position: relative;
-  background: #888eaf;
-  color: #363535;
+  background: #ffffff;
+  color: #fff4f4;
   font: 300 18px/24px 'Open Sans', sans-serif;
   min-width: 1400px;
 }
@@ -266,7 +266,7 @@ header h1 a {
 }
 #skills {
   text-align: center;
-  background-color: #287e7d;
+  background-color: #f7c0f7;
   padding-bottom: 93px;
   background: url(../images/bg-1.jpg) center 0 no-repeat;
 }
