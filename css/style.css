@@ -20,7 +20,7 @@ sss * {
 }
 body {
   position: relative;
-  background: #343a5e;
+  background: #888eaf;
   color: #363535;
   font: 300 18px/24px 'Open Sans', sans-serif;
   min-width: 1400px;
@@ -66,7 +66,7 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  color: #287e7d;
+  color: #cc4ac6;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-style: normal;
 }
@@ -104,18 +104,18 @@ a {
   transition: 0.5s ease;
 }
 a:hover {
-  color: #287e7d;
+  color: #3ae96f;
 }
 .btn {
   display: inline-block;
-  background-color: #343a5e;
+  background-color: #b0b7df;
   color: #ffffff;
   font: 30px/40px 'Yanone Kaffeesatz', sans-serif;
   padding: 9px 42px 12px;
   margin-top: 36px;
 }
 .btn:hover {
-  background-color: #287e7d;
+  background-color: #80dfdd;
   color: #ffffff;
 }
 /****classes****/
