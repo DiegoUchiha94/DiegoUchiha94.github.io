@@ -347,7 +347,7 @@ header h1 a {
   left: 360px;
   top: 11px;
   bottom: 26px;
-  background-color: #585858;
+  background-color: #f1e4e4;
   width: 1px;
   content: '';
 }
@@ -361,7 +361,7 @@ header h1 a {
   margin-bottom: 21px;
   padding-bottom: 38px;
   display: block;
-  border-bottom: 1px solid #565656;
+  border-bottom: 1px solid #fcefef;
 }
 .block-1 time span {
   display: inline-block;
@@ -378,7 +378,7 @@ header h1 a {
   display: block !important;
   border-radius: 500px;
   color: #ffffff;
-  background-color: #4082a5;
+  background-color: #ff61ff;
   margin: 0 auto;
 }
 .circle > div:before {
@@ -401,7 +401,7 @@ header h1 a {
 }
 /****Gallery****/
 .element {
-  border: 1px solid #151515;
+  border: 1px solid #e2d8d8;
   margin-top: -1px;
 }
 .element + .element {
@@ -438,7 +438,7 @@ header h1 a {
 /****Text styles****/
 .text-1 {
   font: 300 36px/40px 'Open Sans Condensed', sans-serif;
-  color: #287e7d;
+  color: #f2ffff;
   margin-bottom: 16px;
 }
 .text-2 {
@@ -454,14 +454,14 @@ header h1 a {
   font-weight: normal;
 }
 .color1 {
-  color: #287e7d;
+  color: #e5f0f0;
 }
 .color1 a:hover,
 a.color1:hover {
-  color: #343a5e;
+  color: #e0e2eb;
 }
 .color2 {
-  color: #343a5e;
+  color: #f2f4ff;
 }
 /****Map****/
 .google-map-api {
@@ -493,7 +493,7 @@ a.color1:hover {
   margin-left: 17px;
 }
 .social-icons .fa:hover {
-  background-color: #343a5e;
+  background-color: #ce4b72;
 }
 /**Footer**/
 #footer {
