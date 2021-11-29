@@ -486,7 +486,7 @@ a.color1:hover {
   width: 50px;
   height: 50px;
   border-radius: 500px;
-  background-color: #287e7d;
+  background-color: #d7e6e5;
   display: inline-block;
 }
 .social-icons .fa + .fa {
@@ -531,5 +531,5 @@ a.color1:hover {
 }
 #toTop:hover {
   outline: none;
-  background-color: #000000;
+  background-color: #f5eeee;
 }
