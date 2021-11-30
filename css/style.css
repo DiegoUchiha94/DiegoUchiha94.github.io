@@ -66,7 +66,7 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  color: #cc4ac6;
+  color: #a72370;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-style: normal;
 }
@@ -254,19 +254,19 @@ header h1 a {
 /****Content****/
 /****Non suppage set****/
 #portfolio {
-  background-color: #567ed6;
+  background-color: #e98fe9;
   padding-bottom: 101px;
 }
 #portfolio h2 {
   padding-top: 98px;
 }
 #testimonials {
-  background-color: hsl(236, 73%, 65%);
+  background-color: hsl(293, 63%, 55%);
   padding-bottom: 93px;
 }
 #skills {
   text-align: center;
-  background-color: #f7c0f7;
+  background-color: #e049e0;
   padding-bottom: 93px;
   background: url(../images/bg-1.jpg) center 0 no-repeat;
 }
@@ -326,8 +326,8 @@ header h1 a {
 }
 #filters .btn.is-checked,
 #filters .btn:hover {
-  background-color: #ffffff;
-  color: #343a5e;
+  background-color: #d433bf;
+  color: #e65cdf;
 }
 #filters .btn + .btn {
   margin-left: 6px;
@@ -336,7 +336,7 @@ header h1 a {
   padding-bottom: 41px;
   overflow: hidden;
   position: relative;
-  border-bottom: 1px solid #585858;
+  border-bottom: 1px solid #e05fe0;
   padding-top: 20px;
 }
 .block-1 + .block-1 {
@@ -454,7 +454,7 @@ header h1 a {
   font-weight: normal;
 }
 .color1 {
-  color: #e5f0f0;
+  color: #ecf5f5;
 }
 .color1 a:hover,
 a.color1:hover {
@@ -480,7 +480,7 @@ a.color1:hover {
   text-align: center;
 }
 .social-icons .fa {
-  color: #ffffff;
+  color: #848bcc;
   font-size: 25px;
   line-height: 52px;
   width: 50px;
@@ -493,7 +493,7 @@ a.color1:hover {
   margin-left: 17px;
 }
 .social-icons .fa:hover {
-  background-color: #ce4b72;
+  background-color: #ce2aaa;
 }
 /**Footer**/
 #footer {
@@ -531,5 +531,5 @@ a.color1:hover {
 }
 #toTop:hover {
   outline: none;
-  background-color: #f5eeee;
+  background-color: #e95aca;
 }

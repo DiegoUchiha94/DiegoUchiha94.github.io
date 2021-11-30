@@ -191,7 +191,7 @@
   resize: none;
   color: #363535;
   height: 221px;
-  background-color: #ffffff;
+  background-color: #bd34aa;
 }
 /* Contact Form Error messages
 ========================================================*/
@@ -224,7 +224,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(199, 45, 191, 0.9);
   background-image: url('../images/form-loader.gif');
   background-repeat: no-repeat;
   background-position: 50% 50%;
