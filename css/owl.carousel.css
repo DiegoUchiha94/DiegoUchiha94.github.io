@@ -29,15 +29,15 @@
   margin-top: -32px;
   overflow: hidden;
   border-radius: 500px;
-  background-color: #faf8f7;
-  color: #287e7d;
+  background-color: #c44dba;
+  color: #ac3fa6;
   text-align: center;
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease;
 }
 #owl .owl-prev:hover,
 #owl .owl-next:hover {
-  background-color: #ffffff;
+  background-color: #d560da;
 }
 #owl .owl-next {
   right: 0;
