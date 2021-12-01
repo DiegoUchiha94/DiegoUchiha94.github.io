@@ -20,8 +20,8 @@ sss * {
 }
 body {
   position: relative;
-  background: #a78080;
-  color: #d4bfbf;
+  background: #ce3fd3;
+  color: #ffffff;
   font: 300 18px/24px 'Open Sans', sans-serif;
   min-width: 1400px;
 }
@@ -175,7 +175,7 @@ a:hover {
 .fleft {
   float: left;
   margin-right: 30px;
-  border: 1px solid #b8b0b0;
+  border: 1px solid #ffffff;
   margin-top: 9px;
 }
 .pad-1 {
@@ -438,16 +438,26 @@ header h1 a {
 /****Text styles****/
 .text-1 {
   font: 300 36px/40px 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
+  color: #c70fb8;
   margin-bottom: 16px;
   font-weight: bold;
 }
+.p {
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 36px;
+  font-weight: bold;
+  color: #db238e;
+}
+
 .text-2 {
   display: block;
   font-size: 30px;
   line-height: 24px;
   margin-bottom: 36px;
   font-weight: bold;
+  color: #db238e;
 }
 .text-3 {
   font-size: 24px;
@@ -495,7 +505,7 @@ a.color1:hover {
   margin-left: 17px;
 }
 .social-icons .fa:hover {
-  background-color: #ce2aaa;
+  background-color: #df80ca;
 }
 /**Footer**/
 #footer {
@@ -511,7 +521,7 @@ a.color1:hover {
 }
 #toTop {
   background-color: #cf3bd4;
-  background-color: rgba(174, 106, 219, 0.65);
+  background-color: rgb(230, 67, 216);
   display: none;
   text-decoration: none;
   position: fixed;
