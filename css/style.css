@@ -545,3 +545,12 @@ a.color1:hover {
   outline: none;
   background-color: #e95aca;
 }
+
+
+.divwe {
+  background-color: rgb(170, 90, 104);
+  opacity: 0.9;
+
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+
+}
